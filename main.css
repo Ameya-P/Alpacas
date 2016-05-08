@@ -21,3 +21,7 @@ p {
   border: 5px solid #FCF9FB;
   padding: 20px;
 }
+
+.navbar {
+  background-color: blue;
+}
