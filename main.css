@@ -1,6 +1,6 @@
 body {
   text-align: center; 
-  background-color: #E4F0E0;
+  background-color: #FCF9FB;
 }
 
 ul {
@@ -18,10 +18,10 @@ h3 {
 
 p {
   font-family: Tahoma;
-  border: 5px solid #FCF9FB;
+  border: 5px solid #FFB0B3;
   padding: 20px;
 }
 
 .navbar {
-  background-color: #FFB0B3;
+  background-color:#E4F0E0;
 }
