@@ -1,5 +1,5 @@
-body {text-align: center; background-color: #FCF9FB;}
+body {text-align: center; background-color: #FCF9FB;background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg")}
 ul {font-family: Tahoma;}
 h1 {font-family: Rockwell;}
 h3 {font-family: Rockwell;}
-p {font-family: Tahoma;  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");}
+p {font-family: Tahoma;}
