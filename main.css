@@ -2,15 +2,20 @@ body {
   text-align: center; 
   background-color: #FCF9FB;
 }
+
 ul {
   font-family: Tahoma;
 }
+
 h1 {
   font-family: Rockwell;
 }
+
 h3 {
   font-family: Rockwell;
+  font-size: 3rem;
 }
+
 p {
   font-family: Tahoma;
 }
