@@ -1,6 +1,6 @@
 body {
   text-align: center; 
-  background-color: #FCF9FB;
+  background-color: #E4F0E0;
 }
 
 ul {
@@ -18,6 +18,6 @@ h3 {
 
 p {
   font-family: Tahoma;
-  border: 5px solid #E4F0E0;
+  border: 5px solid #FCF9FB;
   padding: 20px;
 }
