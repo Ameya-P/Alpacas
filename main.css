@@ -23,6 +23,7 @@ p {
 }
 
 .navbar {
-  border: 10px double #FFB0B3;
-  background-color:#E4F0E0;
+  border: 10px solid #FFB0B3;
+  outline: 10px solid #FAD4C0;
+  background-color:#FBEBD7;
 }
