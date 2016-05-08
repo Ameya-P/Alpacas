@@ -23,6 +23,6 @@ p {
 }
 
 .navbar {
-  border: 10px dotted #FFB0B3;
+  border: 10px double #FFB0B3;
   background-color:#E4F0E0;
 }
