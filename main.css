@@ -15,7 +15,8 @@ h1 {
 h3 {
   font-family: Rockwell;
   font-size: 3rem;
-   border-bottom: 10px solid  #FCF9FB;
+  border-bottom: 20px solid  #FCF9FB;
+  margin-bottom: 5px;
 }
 
 p {
