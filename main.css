@@ -10,12 +10,12 @@ ul {
 
 h1 {
   font-family: Rockwell;
-  border: 5px solid pink;
 }
 
 h3 {
   font-family: Rockwell;
   font-size: 3rem;
+   border: 5px solid pink;
 }
 
 p {
