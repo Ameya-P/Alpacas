@@ -16,6 +16,7 @@ h3 {
   font-family: Rockwell;
   font-size: 3rem;
   border-bottom: 20px solid  #FCF9FB;
+  border-radius:25px;
   margin-bottom: 5px;
 }
 
@@ -28,13 +29,16 @@ p {
   border: 30px solid #FFB0B3;
   outline: 10px solid #E4F0E0;
   background-color:#FCF9FB;
+  border-radius: 25px;
 }
 
 nav li {
   display: inline;
+  border-radius: 25px;
 }
 
 .home {
   background-color:#FFB0B3;
+  border-radius: 25px;
   margin: 20px;
 }
