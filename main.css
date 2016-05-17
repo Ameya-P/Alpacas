@@ -1,11 +1,11 @@
 body {
   text-align: center; 
-  background-color: #EDCD9F;
+  background-color: #FCF9FB;
 }
 
 ul {
   font-family: Tahoma;
-  background-color:#FFB0B0;
+  background-color:#E4F0E0;
 }
 
 h1 {
@@ -15,7 +15,7 @@ h1 {
 h3 {
   font-family: Rockwell;
   font-size: 3rem;
-  border-bottom: 20px solid  #EDCD9F;
+  border-bottom: 20px solid  #FCF9FB;
   margin-bottom: 5px;
 }
 
@@ -25,9 +25,9 @@ p {
 }
 
 .navbar {
-  border: 30px solid #FF8F8F;
-  outline: 10px solid #FF6666;
-  background-color:#FFB0B0;
+  border: 30px solid #FFB0B3;
+  outline: 10px solid #E4F0E0;
+  background-color:#FCF9FB;
 }
 
 nav li {
@@ -35,6 +35,6 @@ nav li {
 }
 
 .home {
-  background-color:#72AB9D;
+  background-color:#FFB0B3;
   margin: 20px;
 }
