@@ -1,6 +1,6 @@
 body {
   text-align: center; 
-  background-color: #FEDCD9F;
+  background-color: #EDCD9F;
 }
 
 ul {
@@ -15,7 +15,7 @@ h1 {
 h3 {
   font-family: Rockwell;
   font-size: 3rem;
-  border-bottom: 20px solid  #FEDCD9F;
+  border-bottom: 20px solid  #EDCD9F;
   margin-bottom: 5px;
 }
 
